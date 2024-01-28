@@ -1,3 +1,3 @@
-Commands
-gcc main.c -o lexer
+Commands<br>
+gcc main.c -o lexer<br>
 ./lexer sample.c
